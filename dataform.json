@@ -1,0 +1,7 @@
+{
+    "warehouse": "bigquery",
+    "defaultSchema": "staging",
+    "defaultLocation": "europe-west2",
+    "assertionSchema": "assertions",
+    "defaultDatabase": "homelab-elexpe"
+}
